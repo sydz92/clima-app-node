@@ -1,7 +1,6 @@
 ## Aplicación del Clima - Curso Node
 
-Ejecutar ```npm install```
-Sustiuir API keys en lugar.js y clima.js
+Ejecutar ```npm install``` y sustiuir API keys en lugar.js y clima.js antes de ejecutar
 
 ### Ejemplo de ejecución
 
